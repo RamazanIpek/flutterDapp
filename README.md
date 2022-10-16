@@ -1,6 +1,6 @@
 # simpleflutterdapp
 
-A new Flutter project.
+Flutter DApp with infura 
 
 ## Getting Started
 
